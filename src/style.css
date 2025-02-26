@@ -2,4 +2,13 @@
 
 body{
     background: white;
+    text-align: center;
+    margin: 200px;
+}
+
+p {
+    margin-top: 20px;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+
 }
